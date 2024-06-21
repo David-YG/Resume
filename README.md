@@ -1,22 +1,40 @@
 ### 楊大緯
-1. 個人資料
-    - 姓名 ：楊大緯
-    - 學歷 : [**天主教輔仁大學/經濟學系**](https://www.economics.fju.edu.tw/en/)
-    - 信箱 ：[twyang@gis-taiwan.ntu.edu.tw](twyang@gis-taiwan.ntu.edu.tw)
-    - 興趣 ：閱讀、參加校外活動、參與學生組織
-    - 專長 ：經濟學理論、論辨時事、團隊合作、活動策劃與組織
-    - 個性 : 富有熱情、積極進取、喜歡團隊合作
-    - 經營媒體 :
-        - [Medium](https://medium.com/@davidzsedc)
-        - [Instagram](https://www.instagram.com/asia.economics_expert?igsh=dzdvNTB6a3IweWwz&utm_source=qr)
+
+### I. **個人資料**
+   - 姓名：楊大緯
+   - 學歷：[天主教輔仁大學/經濟學系](https://www.economics.fju.edu.tw/en/)
+   - 信箱：[twyang@gis-taiwan.ntu.edu.tw](twyang@gis-taiwan.ntu.edu.tw)
+   - 興趣：閱讀、參加校外活動、參與學生組織
+   - 專長：經濟學理論、論辨時事、思辨社會問題、活動策劃與組織
+   - 個性：富有熱情、積極進取、喜歡團隊合作
+   - 經營媒體：
+     - [Medium](https://medium.com/@davidzsedc)
+     - [Instagram](https://www.instagram.com/asia.economics_expert?igsh=dzdvNTB6a3IweWwz&utm_source=qr)
+
+---
+
+### II. **個人著作**
+
+- **亞洲經濟分析與報導 (Instagram)**
+
+  ![亞洲經濟分析與報導](https://i.imgur.com/0BZK5QT.jpg)
+
+- **遠見雜誌社論 (Medium)**
+
+  ![遠見雜誌社論](https://i.imgur.com/m4AOC7k.png)
+
+---
+
+### III. **個人事蹟**
+- 參與美國國務院NSLI-Y計畫接待
+- 參與台灣青年學生兩岸關係研習營
+- 參加Startup創業競技場
+- 出席「從贏在軟實力到軟實力之島」講座
+- 擔任師大TED與臺大全球集思論壇的籌備團隊成員
+
 <hr>
 
-### 個人著作
+### IV. **自我介紹**
 
-- 亞洲經濟分析與報導(Instagram)
-
-![](https://i.imgur.com/0BZK5QT.jpg)
-
-- 遠見雜誌社論(Medium)
-
-![](https://i.imgur.com/m4AOC7k.png)
+        我是楊大緯，目前就讀於經濟學系。我選擇經濟學是因為對經濟理論的好奇心和對國家經濟發展的濃厚興趣。我的性格樂觀開朗，熱衷於參加各類校外活動，以此擴展視野、增進見識。我曾參與美國國務院NSLI-Y計畫接待、台灣青年學生兩岸關係研習營、Startup創業競技場以及「從贏在軟實力到軟實力之島」講座等，並積极參與學生組織，目前擔任師大TED與臺大全球集思論壇的籌備團隊成員。
+        這些經歷讓我在知識和世界觀上不斷成長，並及時掌握產官學界的最新動向，了解世界的變化趨勢和科技的發展。我希望能參加此次校園領袖活動，通過閱讀和寫作訓練，提升論辨時事和思辨社會問題的能力，並與《遠見》一起成長，發揮青年的影響力，跨越世代鴻溝，讓我們的聲音被聽見，進而促進長幼間的溝通和交流，為大家的未來帶來更多美好的可能。
