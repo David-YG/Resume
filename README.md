@@ -9,7 +9,13 @@
         - [Medium](https://medium.com/@davidzsedc)
         - [IG](https://www.instagram.com/asia.economics_expert?igsh=dzdvNTB6a3IweWwz&utm_source=qr)
 <hr>
-###個人著作
+
+### 個人著作
+
 - 亞洲經濟分析與報導(IG)
 
 ![](https://i.imgur.com/0BZK5QT.jpg)
+
+- 遠見雜誌社論(Medium)
+
+![](https://i.imgur.com/m4AOC7k.png))
