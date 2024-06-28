@@ -17,7 +17,7 @@
 
 - **亞洲經濟分析與報導 (Instagram)**
 
-  ![亞洲經濟分析與報導](https://i.imgur.com/0BZK5QT.jpg)
+  ![亞洲經濟分析與報導](https://i.imgur.com/gFmNaER.jpg)
 
 - **遠見雜誌社論 (Medium)**
 
